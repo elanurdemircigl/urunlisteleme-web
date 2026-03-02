@@ -3,8 +3,8 @@ Bu proje, HTML ve CSS kullanılarak geliştirilmiş tek sayfalık bir e-ticaret 
 
 ## Öğrendiklerim / Zorlandıklarım
 
--Grid ve Flexbox birlikte kullanım stratejileri   
--Responsive tasarımda breakpoint planlaması    
--Hover ve focus durumlarının UX üzerindeki etkisi    
--CSS değişkenleri ile daha sürdürülebilir stil yönetimi     
--Kart layout’larında dikey hizalamanın önemi    
+- Grid ve Flexbox birlikte kullanımını daha iyi kavradım.
+- Responsive tasarımda breakpoint belirlemenin önemini öğrendim.
+- Hover ve focus durumlarının kullanıcı deneyimi açısından kritik olduğunu fark ettim.
+- CSS değişkenleri ile tema yönetiminin kodu sadeleştirdiğini gördüm.
+- Küçük ekranlarda düzenin bozulmaması için spacing ayarlamak zorlayıcıydı.
